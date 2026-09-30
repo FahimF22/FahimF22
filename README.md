@@ -23,7 +23,7 @@ and modern web technologies.
 
 ## 🔗 Connect With Me
 
-[https://www.linkedin.com/in/fahim-fardin-8a4145253/] 
+[https://www.linkedin.com/in/fahim-fardin-8a4145253/]
 [https://github.com/FahimF22]
 [fahimfardin112@gmail.com]
 
