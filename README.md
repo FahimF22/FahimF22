@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner.png" alt="Fahim Fardin GitHub Profile Banner" width="100%">
+</p>
+
 # Hi, I'm Fahim Fardin 👋
 
 ### Computer Science & Engineering Student | Software Developer
@@ -21,12 +25,14 @@ and modern web technologies.
 
 ## 🔗 Connect With Me
 
-[LinkedIn] [GitHub] [Email]
+[https://www.linkedin.com/in/fahim-fardin-8a4145253/] 
+[https://github.com/FahimF22]
+[fahimfardin112@gmail.com]
 
 ## 📊 GitHub Statistics
 
-[Languages]
-Bengali, English, Hindi
+[Languages; Bengali, English, Hindi]
+
 <!--
 **FahimF22/FahimF22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
