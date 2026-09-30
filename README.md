@@ -19,7 +19,7 @@ and modern web technologies.
 
 ## 🛠️ Tech Stack
 
-[Your skill icons will go here]
+
 
 ## 🔗 Connect With Me
 
