@@ -1,3 +1,14 @@
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│                  FAHIM FARDIN                                |
+│                                                              |
+│          Computer Science & Engineering                      │
+│                                                              │
+│       Software Development • AI/ML • Web Development         │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+
+
 # Hi, I'm Fahim Fardin 👋
 
 ### Computer Science & Engineering Student | Software Developer
